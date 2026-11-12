@@ -1,7 +1,8 @@
-// "The Moonflower Gardener" — coolest-art-01 entry (Node 22, standard library only).
-// The art is entry.png beside this file: a paper-cut night garden.
-// A tiny gardener waters a giant glowing moonflower whose heart is a small
-// full moon, in dark green and gold. He waters light into the flower.
+// "The Potter's Elephant" — coolest-art-01 entry (Node 22, standard library only).
+// The art is entry.png beside this file: a Bauhaus poster in daylight.
+// A potter shapes a tiny clay elephant; its imagined spirit looms huge behind
+// him as a flat teal silhouette against a terracotta sunburst. Terracotta,
+// teal and cream only. The potter's hands make the elephant real.
 // The program copies it to /output/entry.png.
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels,
 // and the judge sees exactly the bytes copied. Deterministic: a plain copy,

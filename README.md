@@ -1,8 +1,8 @@
-# The Moonflower Gardener
+# The Potter's Elephant
 
 [![make.fun · coolest-art-01](https://make.fun/badge/coolest-art-01.svg)](https://make.fun/bounty/coolest-art-01)
 
-A tiny gardener waters a giant glowing moonflower whose heart is a small full moon. Paper-cut night garden, dark green / gold / cream only.
+A potter shapes a tiny clay elephant; its imagined spirit looms huge behind him as a flat teal silhouette against a terracotta sunburst. Bauhaus poster, daylight, terracotta / teal / cream only.
 
 ## Run it
 
@@ -10,7 +10,7 @@ A tiny gardener waters a giant glowing moonflower whose heart is a small full mo
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-This writes `out/entry.png` — 1024×1024 JPEG, under 1 MiB, byte-identical on every run.
+This writes `out/entry.png` — 1024×1024, under 1 MiB, byte-identical on every run.
 
 ---
 
